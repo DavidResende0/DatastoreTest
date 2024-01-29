@@ -1,0 +1,12 @@
+---
+object_type: namespace
+version: 1.0
+object:
+  attributes:
+    name: Dave-Test
+    description: This is a test mk2
+    display_name:
+    priority:
+    enabled:
+    ancestry: '1781'
+    relative_path: Dave-Test

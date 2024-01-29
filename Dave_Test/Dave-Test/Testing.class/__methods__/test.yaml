@@ -1,0 +1,14 @@
+---
+object_type: method
+version: 1.0
+object:
+  attributes:
+    name: Test
+    display_name: Test
+    description:
+    scope: instance
+    language: ruby
+    location: builtin
+    data: ''
+    relative_path: Dave-Test/Testing/Test
+  inputs: []

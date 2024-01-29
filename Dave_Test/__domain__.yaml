@@ -1,0 +1,15 @@
+---
+object_type: domain
+version: 1.0
+object:
+  attributes:
+    name: Dave_Test
+    description: This is a form conversion test
+    display_name:
+    priority: 1
+    enabled: true
+    tenant_id: 3
+    source: user
+    top_level_namespace:
+    ancestry:
+    relative_path:

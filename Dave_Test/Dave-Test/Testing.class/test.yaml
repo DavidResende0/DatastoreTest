@@ -1,0 +1,11 @@
+---
+object_type: instance
+version: 1.0
+object:
+  attributes:
+    display_name: Test
+    name: Test
+    inherits:
+    description: This is a Test
+    relative_path: Dave-Test/Testing/Test
+  fields: []
